@@ -1,4 +1,4 @@
-# Stock Check ML, React, Node Web Application
+# Stock Check ML, React, Node, TensorFlow Web Application
 
 In the project directory, you can run:
 
